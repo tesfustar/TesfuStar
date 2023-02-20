@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @TesfuStar
-- 👀 I’m interested in creating web applications using various technologies
-- 🌱 I’m currently learning..
-- 💞️ I’m looking to collaborate on ...
+- 👀 I’m interested in creating fullstack web and mobile applications using various technologies
+- 🌱 I’m currently learning advanced features on typscript
 - 📫 How to reach me  call=+251944719460
 
 <!---
