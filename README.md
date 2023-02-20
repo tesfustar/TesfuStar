@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @TesfuStar
+- 👋 Hi, I’m Tesfaye Lemi(abdi) fullstack web and mobile app developer
 - 👀 I’m interested in creating fullstack web and mobile applications using various technologies
 - 🌱 I’m currently learning advanced features on typescript
 - 📫 How to reach me  call=+251944719460
