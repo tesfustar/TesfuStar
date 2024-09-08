@@ -6,7 +6,7 @@
 
 - 🌱 I’m currently learning **Angular**
 
-- 👨‍💻 All of my projects are available at [https://www.tesfesh.com/](https://www.tesfesh.com/)
+- 👨‍💻 Some of my projects are available at [https://www.tesfesh.com/](https://www.tesfesh.com/)
 
 - 💬 Ask me about **React, Nextjs**
 
